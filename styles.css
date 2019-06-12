@@ -34,13 +34,13 @@ header .mobile {
 
 header .logo a {
   background-image: url("Logo-1560352413058.png");
-  background-size: 210px;
+  background-size: 205px;
   background-repeat: no-repeat;
   display: inline-block;
   height: 195px;
   position: relative;
   text-indent: -9999999px;
-  top: -25px;
+  top: -35px;
   width: 200px;
 }
 nav ul {
