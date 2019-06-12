@@ -38,7 +38,7 @@ header .logo a {
   background-repeat: no-repeat;
   display: inline-block;
   height: 195px;
-  position: center;
+  position: relative;
   text-indent: -9999999px;
   top: -45px;
   width: 200px;
