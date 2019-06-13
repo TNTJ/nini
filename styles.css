@@ -34,9 +34,8 @@ header .logo a {
   size: 20px;
   background-repeat: no-repeat;
   display: inline-block;
-  height: 100px;
-  position: center;
-  width: 100px;
+  position: relative;
+  
   
 }
 nav ul {
@@ -46,7 +45,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-right: 60px;
+  margin-right: 0px;
 }
 
 /* RESPONSIVE RULES */
