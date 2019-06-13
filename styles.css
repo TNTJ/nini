@@ -39,12 +39,12 @@ header .logo a {
   height: 215px;
   position: relative;
   text-indent: -9999999px;
-  top: -55px;
+  top: -65px;
   width: 240px;
   
 }
 nav ul {
-  margin-left: 70px;
+  margin-left: 80px;
   padding: 0;
   list-style-type: none;
 }
