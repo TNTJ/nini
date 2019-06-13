@@ -31,14 +31,12 @@ header .mobile {
 }
 
 header .logo a {
-  margin-left: 30px;
-  background-size: 240px;
+  size: 100px;
   background-repeat: no-repeat;
   display: inline-block;
-  height: 240px;
+  height: 100px;
   position: relative;
-  top: -65px;
-  width: 240px;
+  width: 100px;
   
 }
 nav ul {
