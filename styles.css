@@ -32,7 +32,7 @@ header .mobile {
 
 header .logo a {
   background-image: url("Logo-1560352413058.png");
-  margin-left: 60px;
+  margin-left: 40px;
   background-size: 240px;
   background-repeat: no-repeat;
   display: inline-block;
@@ -44,7 +44,7 @@ header .logo a {
   
 }
 nav ul {
-  margin-left: 60px;
+  margin-left: 70px;
   padding: 0;
   list-style-type: none;
 }
