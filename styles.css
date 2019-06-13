@@ -31,11 +31,11 @@ header .mobile {
 }
 
 header .logo a {
-  size: 100px;
+  size: 20px;
   background-repeat: no-repeat;
   display: inline-block;
   height: 100px;
-  position: relative;
+  position: center;
   width: 100px;
   
 }
