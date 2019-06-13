@@ -32,14 +32,14 @@ header .mobile {
 
 header .logo a {
   background-image: url("Logo-1560352413058.png");
-  margin-left: 20px;
+  margin-left: 40px;
   background-size: 240px;
   background-repeat: no-repeat;
   display: inline-block;
   height: 215px;
   position: relative;
   text-indent: -9999999px;
-  top: -35px;
+  top: -45px;
   width: 240px;
   
 }
