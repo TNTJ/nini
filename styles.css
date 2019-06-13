@@ -12,10 +12,10 @@ header {
   background-color: #ffc6be;
   /*  sorry for the strange urls, I had to upload them to google drive  */
 /*  background-image: url("cake1.jpg");*/
-  background-size: 110%;
+  background-size: 100%;
   background-position: center;
-  height: 500px;
-  padding: 1px;
+  height: 400px;
+  padding: 20px;
   text-align: center;
   }
 header a {
@@ -73,18 +73,6 @@ nav li {
   }
 }
 
-@media screen and (max-width: 315px) {
-  header {
-    height: 250px;
-    background-position: 0 -30px;
-  }
-  header .mobile {
-    display: inline-block;
-  }
-  header .desktop {
-    display: none;
-  }
-}
 /* FEATURES */
 
 .features {
