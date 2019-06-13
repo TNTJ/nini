@@ -286,9 +286,9 @@ text-shadow: 4px 3px 0px #7A7A7A;
 }
 
 footer {
-  background: black;
+  background: #ffc6be;
   color: gray;
-  font-size: 16px;
+  font-size: 20px;
   padding: 20px 20px;
   text-align: center;
 }
