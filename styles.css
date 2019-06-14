@@ -31,7 +31,7 @@ header .mobile {
 }
 
 header .logo a {
-  background-image: src ("cake1.jpg");
+  background-image: #FFC6BE;
   background-size: 300px;
   background-repeat: no-repeat;
   display: inline-block;
