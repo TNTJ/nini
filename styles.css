@@ -1,5 +1,5 @@
 body {
-  background: rgb(255, 255, 255);
+  background: rgb(58, 58, 58);
   color: white;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   margin: 0;
@@ -9,15 +9,16 @@ body {
 /* HEADER */
 
 header {
-  background-color: #ffc6be;
+  background-color: #FFC6BE;
   /*  sorry for the strange urls, I had to upload them to google drive  */
-/*  background-image: url("cake1.jpg");*/
+  
   background-size: 100%;
   background-position: center;
   height: 400px;
   padding: 20px;
   text-align: center;
-  }
+}
+
 header a {
   color: white;
   text-decoration: none;
@@ -25,26 +26,31 @@ header a {
   margin-top: 40px;
 }
 
-
 header .mobile {
   display: none;
 }
 
 header .logo a {
+  background-image: src ("cake1.jpg");
+  background-size: 300px;
   background-repeat: no-repeat;
   display: inline-block;
+  height: 80px;
   position: relative;
-  
-  
+  text-indent: -9999999px;
+  top: -30px;
+  width: 300px;
 }
+
 nav ul {
+  margin: 0;
   padding: 0;
   list-style-type: none;
 }
 
 nav li {
   display: inline-block;
-  margin-right: 0px;
+  margin-right: 20px;
 }
 
 /* RESPONSIVE RULES */
@@ -61,12 +67,14 @@ nav li {
     display: none;
   }
 }
+
 @media screen and (max-width: 500px) {
   header {
     height: 200px;
     background-position: 0 -0px;
   }
 }
+
 
 /* FEATURES */
 
